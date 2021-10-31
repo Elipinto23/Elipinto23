@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <a> <img src="https://raw.githubusercontent.com/Elipinto23/Elipinto23/e7f23390bd5657e6445293ac0348abfb5e8f1d96/css3.svg" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/Elipinto23/Elipinto23/e7f23390bd5657e6445293ac0348abfb5e8f1d96/figma.svg" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/Elipinto23/Elipinto23/e7f23390bd5657e6445293ac0348abfb5e8f1d96/firebase.svg" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/Elipinto23/Elipinto23/e7f23390bd5657e6445293ac0348abfb5e8f1d96/figma.svg" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/Elipinto23/Elipinto23/e7f23390bd5657e6445293ac0348abfb5e8f1d96/github.svg" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/Elipinto23/Elipinto23/e7f23390bd5657e6445293ac0348abfb5e8f1d96/html5.svg" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/Elipinto23/Elipinto23/e7f23390bd5657e6445293ac0348abfb5e8f1d96/javascript.svg" width="40" height="40"/> </a>
